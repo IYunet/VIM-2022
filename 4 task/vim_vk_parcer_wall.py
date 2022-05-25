@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 vk_config = {
-    "token": "589a90f5309ad76d7898eb3263d08bbc3f1d453bf8b8af3844bfa59e0656d46dc589e587a21e7a2d5384a",  # временный токен
+    "token": "7483c7cd85f1d630acbe0a27a4b189ae6989c322bbef89895a1af0b0a4ba089c4ca6909b79bcd97c833a5",  # временный токен или вечный токен
     "client_id": "7861998",  # ID приложения
     "version": "5.131",
     "domain": "https://api.vk.com/method/",
